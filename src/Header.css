@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;800&family=Roboto:wght@300;500&display=swap");
+
+.navigation {
+  display: flex;
+  justify-content: space-around;
+}
+
+.menu-links {
+  text-decoration: none;
+  font-family: "Orbitron", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  text-transform: uppercase;
+  color: #000000;
+}
